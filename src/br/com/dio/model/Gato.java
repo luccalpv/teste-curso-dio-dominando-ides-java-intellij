@@ -3,7 +3,7 @@ package br.com.dio.model;
 import java.util.Objects;
 
 public class Gato {
-    int b = 2;
+    int b = 1;
     private String nome;
     private String cor;
     private Integer idade;
